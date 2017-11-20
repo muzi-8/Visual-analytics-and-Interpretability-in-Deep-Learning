@@ -1,3 +1,4 @@
+第一周：
 论文“Visualizing and Understanding Convolutional Networks”的讲解
 
 1、阅读Visulizing and Understanding Neural networks，周日讨论
@@ -14,6 +15,9 @@
 3、The state-of-art in predictive visual analysis
 4、VADL是深度学习可视化会议
   https://vadl2017.github.io/
-
-
-
+  
+第二周：
+1.学习反卷积网络的code
+2.阅读论文
+"Adaptive deconvolutional networks for mid and high level feature learning"
+"Visualizing and comparing Alexnet and VGG using Deconvolutional layers"
