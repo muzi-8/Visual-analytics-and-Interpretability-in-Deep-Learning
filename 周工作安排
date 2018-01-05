@@ -44,4 +44,4 @@ Interpreting Convolutional neural network through compression  2017NIPS
 Structural Compression of Convolutional Neural Networks Based on Greedy Filter Pruning 
 understanding trained cnn by indexing neural selectivity 
 即将：
-shufflenet、resnet
+shufflenet、resnet(block)、mobilenet（group）
