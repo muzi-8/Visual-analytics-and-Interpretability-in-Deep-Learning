@@ -10,7 +10,7 @@
 1、下次开会带本子和笔，提到的要点注意记录
 
 参考文献：
-1、Towards better understanding of deep learning with visualization
+1、Towards better understanding of dee8p learning with visualization
 2、Evolutionary visual analysis of deep neural networks
 3、The state-of-art in predictive visual analysis
 4、VADL是深度学习可视化会议
@@ -43,3 +43,5 @@ Do Convolutional Neural Networks Learn Class Hierarchy?
 Interpreting Convolutional neural network through compression  2017NIPS 
 Structural Compression of Convolutional Neural Networks Based on Greedy Filter Pruning 
 understanding trained cnn by indexing neural selectivity 
+即将：
+shufflenet、resnet
