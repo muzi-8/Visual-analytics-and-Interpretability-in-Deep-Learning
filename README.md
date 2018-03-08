@@ -5,7 +5,7 @@
 - [Deep Learning Lab:作者Paulo Rauber关于深度学习的教程资料](http://paulorauber.com/slides/deep_learning_lab.pdf)
 - [Feature Visualization:How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
 ### 重要进展
-- [Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+- [Google Brain-Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
 - [破解AI大脑黑盒,谷歌迈出新的一步](https://zhuanlan.zhihu.com/p/34306323)
 
 
