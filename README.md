@@ -7,4 +7,4 @@
 ### 重要进展
 - [破解AI大脑黑盒,谷歌迈出新的一步](https://zhuanlan.zhihu.com/p/34306323)
   - [Google Brain-Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
-  - [code:lucid](https://github.com/tensorflow/lucid)
+  - [code:tensorflow/lucid](https://github.com/tensorflow/lucid)
