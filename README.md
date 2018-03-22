@@ -11,3 +11,7 @@
   - [code:tensorflow/lucid](https://github.com/tensorflow/lucid)
 ### 文献
 - [Mendeley Articles Push](https://www.mendeley.com/suggest/)
+### 方法论
+#### 度量变量相关性
+- [Correlations in Complex Data](https://medium.freecodecamp.org/how-machines-make-predictions-finding-correlations-in-complex-data-dfd9f0d87889)
+- [从PCC到MIC，一文教你如何计算变量之间的相关性](https://www.jiqizhixin.com/articles/how-machines-make-predictions-finding-correlations-in-complex-data)转自公众号:机器之心
