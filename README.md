@@ -8,10 +8,12 @@
 ### 重要进展
 - [破解AI大脑黑盒,谷歌迈出新的一步](https://zhuanlan.zhihu.com/p/34306323)
   - [Google Brain-Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
-  - [code:tensorflow/lucid](https://github.com/tensorflow/lucid)
+  - [code:tensorflow/lucid](https://github.com/tensorflow/lucid)
+- [DeepMind:Understanding deep learning through neuron deletion](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
 ### 文献
 - [Mendeley Articles Push](https://www.mendeley.com/suggest/)
 ### 方法论
 #### 度量变量相关性
 - [Correlations in Complex Data](https://medium.freecodecamp.org/how-machines-make-predictions-finding-correlations-in-complex-data-dfd9f0d87889)
 - [从PCC到MIC，一文教你如何计算变量之间的相关性](https://www.jiqizhixin.com/articles/how-machines-make-predictions-finding-correlations-in-complex-data)转自公众号:机器之心
+
