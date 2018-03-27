@@ -24,6 +24,7 @@
 
 ### Part 3 相关研究组织
 - [PKU Visualization Blog](http://vis.pku.edu.cn/blog/sample-page/)
+- [VGA 浙大可视化研究组](http://www.cad.zju.edu.cn/home/vagblog/)
 
 
 
