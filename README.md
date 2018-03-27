@@ -23,7 +23,7 @@
 - [How to write a Research Paper](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247490204&idx=2&sn=030f76134e9f2b72834af99a0e806201&chksm=ec57ad1bdb20240dddff0ab6c6d26bae138441375b27228b197d97f8f44e2277bb232965e6c4&mpshare=1&scene=1&srcid=0325omBbejnxDWkEHeQIt3ee&pass_ticket=vJFsXqYY2N3CbNbhe5p0mtpkOod8RFPqF6ry3ZzHLo94tdbcSWLkhSk%2BdVTmOZpX#rd)
 
 ### Part 3 相关研究组织
-- [PKU Visualization Blog]（http://vis.pku.edu.cn/blog/sample-page/）
+- [PKU Visualization Blog](http://vis.pku.edu.cn/blog/sample-page/)
 
 
 
