@@ -27,8 +27,10 @@
 ### Part 3 相关研究组织
 - [PKU Visualization Blog](http://vis.pku.edu.cn/blog/sample-page/)
 - [VGA 浙大可视化研究组](http://www.cad.zju.edu.cn/home/vagblog/)
-
-
+### Part 4 github相关开源项目
+- [GAN lab](https://github.com/poloclub/ganlab)
+- [tensorflow.js](https://github.com/tensorflow/tfjs)
+- [ShapeShop]()
 
 
 
