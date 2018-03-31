@@ -10,6 +10,7 @@
   - [Google Brain-Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
   - [code:tensorflow/lucid](https://github.com/tensorflow/lucid)
 - [DeepMind:Understanding deep learning through neuron deletion](https://deepmind.com/blog/understanding-deep-learning-through-neuron-deletion/)
+- [tensorflow 2018 summit](https://medium.com/tensorflow/highlights-from-tensorflow-developer-summit-2018-cd86615714b2)
 ### 文献
 - [Mendeley Articles Push](https://www.mendeley.com/suggest/)
 ### 方法论
