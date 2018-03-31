@@ -30,7 +30,7 @@
 ### Part 4 github相关开源项目
 - [GAN lab](https://github.com/poloclub/ganlab)
 - [tensorflow.js](https://github.com/tensorflow/tfjs)
-- [ShapeShop]()
+- [ShapeShop](https://github.com/fredhohman/shapeshop)
 
 
 
