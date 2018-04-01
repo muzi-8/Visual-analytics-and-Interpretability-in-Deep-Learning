@@ -35,6 +35,7 @@
 - [CNN filters category selectivity](https://github.com/taneta/category_selectivity_cnn)
 ### Part 5 相关顶会论文集
 - [IJCAI:International Joint Conferences on Artificial Intelligence Organization](https://www.ijcai.org/proceedings/2017/)
+- [机器学习&深度学习顶会（2017、2018）](https://northconcepts.com/blog/2017/11/30/machine-learning-artificial-intelligence-conferences/)
 
 
 
