@@ -33,6 +33,10 @@
 - [ShapeShop](https://github.com/fredhohman/shapeshop)
 - [darksight](https://github.com/xukai92/darksight)
 - [CNN filters category selectivity](https://github.com/taneta/category_selectivity_cnn)
+#### 4.1 DeepLearning与前端相关开源项目
+- [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
+- [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
+#### 4.2 对抗样本相关开源项目
 ### Part 5 相关顶会论文集
 - [IJCAI:International Joint Conferences on Artificial Intelligence Organization](https://www.ijcai.org/proceedings/2017/)
 - [机器学习&深度学习顶会（2017、2018）](https://northconcepts.com/blog/2017/11/30/machine-learning-artificial-intelligence-conferences/)
