@@ -33,6 +33,7 @@
 - [ShapeShop](https://github.com/fredhohman/shapeshop)
 - [darksight](https://github.com/xukai92/darksight)
 - [CNN filters category selectivity](https://github.com/taneta/category_selectivity_cnn)
+- [JS与deeplearning关系](https://zhuanlan.zhihu.com/p/31753879)
 #### 4.1 DeepLearning与前端相关开源项目
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
