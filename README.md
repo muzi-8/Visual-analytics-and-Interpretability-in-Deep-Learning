@@ -31,6 +31,7 @@
 - [GAN lab](https://github.com/poloclub/ganlab)
 - [tensorflow.js](https://github.com/tensorflow/tfjs)
 - [ShapeShop](https://github.com/fredhohman/shapeshop)
+- [darksight](https://github.com/xukai92/darksight)
 
 
 
