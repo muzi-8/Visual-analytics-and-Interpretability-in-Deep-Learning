@@ -32,6 +32,7 @@
 - [tensorflow.js](https://github.com/tensorflow/tfjs)
 - [ShapeShop](https://github.com/fredhohman/shapeshop)
 - [darksight](https://github.com/xukai92/darksight)
+- [CNN filters category selectivity](https://github.com/taneta/category_selectivity_cnn)
 ### Part 5 相关顶会论文集
 - [IJCAI:International Joint Conferences on Artificial Intelligence Organization](https://www.ijcai.org/proceedings/2017/)
 
