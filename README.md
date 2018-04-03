@@ -37,6 +37,7 @@
 - [CNN filters category selectivity](https://github.com/taneta/category_selectivity_cnn)
 - [JS与deeplearning关系](https://zhuanlan.zhihu.com/p/31753879)
 - [ANNvisualizer](https://github.com/Prodicode/ann-visualizer)
+- [CNN fixation](https://github.com/val-iisc/cnn-fixations)
 #### 4.1 DeepLearning与前端相关开源项目
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
