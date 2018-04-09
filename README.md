@@ -43,6 +43,9 @@
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
 #### 4.2 对抗样本相关开源项目
+#### 4.3 tensorflow.js相关资料
+- [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
+- [Visualizing activations of MobileNet with TensorFlow.js](https://beta.observablehq.com/@nsthorat/visualizing-activations-of-mobilenet-with-tensorflow-js)
 ### Part 5 相关顶会论文集
 - [IJCAI:International Joint Conferences on Artificial Intelligence Organization](https://www.ijcai.org/proceedings/2017/)
 - [机器学习&深度学习顶会（2017、2018）](https://northconcepts.com/blog/2017/11/30/machine-learning-artificial-intelligence-conferences/)
