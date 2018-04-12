@@ -52,6 +52,12 @@
 ### Part 6 理论层次
 #### 信息论与深度学习的结合
 - [(MEDIUM) Mukul Malik:Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
+### Part 7 Visual Analytics Community Classical Project
+- [classilist](https://github.com/katehara/classilist)
+- [LstmVis]
+- [RnnVis]
+- [Revacnn]
+
 
 
 
