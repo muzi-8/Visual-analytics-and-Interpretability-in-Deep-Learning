@@ -60,7 +60,8 @@
 - [Revacnn]
 ### Part 8 Model Evaluation system
 - [Visualize, monitor, debug nerwork learning](https://deeplearning4j.org/visualization)
-
+### Part 9 Long Paper and Report
+- [Land Use and Land Cover Classification Using Deep Learning Techniques Author:Nagesh Kumar](chrome-extension://ihgdgpjankaehldoaimdlekdidkjfghe/viewer.html#https://repository.asu.edu/attachments/170740/content/Uba_asu_0010N_15901.pdf)
 
 
 
