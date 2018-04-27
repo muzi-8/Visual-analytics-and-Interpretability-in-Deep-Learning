@@ -21,7 +21,7 @@
 
 第三周：
 学习论文 Learning Deep Features for Discriminative Localization + code Bolei Zhou 
-
+d
 第四周:
 学习论文 
 Synthesizing the preferred inputs for neurons in neural networks via deep generator networks. + code Anh Nguyen
@@ -72,3 +72,5 @@ GanVis:A visual analytics approach to understand the aderversarial game(2018 Pac
 TNNVis:Visualizing Deep Neural Networks for Text Analytics(2018 Pacificvis  AUTHOR: Shaoliang Nie) 未找到原文
 Transferring Deep convolutional neural networks for the scene classification of high-resolution remote sensing Imagery (Remote sensing 2015 遥感领域的论文)
 Land Use and Land Cover Classification Using Deep Learning Techniques Author:Nagesh Kumar(chrome-extension://ihgdgpjankaehldoaimdlekdidkjfghe/viewer.html#https://repository.asu.edu/attachments/170740/content/Uba_asu_0010N_15901.pdf)
+第18周
+Opening the black box of neural nets: case studies in stop/top discrimination（2018）
