@@ -19,6 +19,7 @@
 - [从PCC到MIC，一文教你如何计算变量之间的相关性](https://www.jiqizhixin.com/articles/how-machines-make-predictions-finding-correlations-in-complex-data)转自公众号:机器之心
 ### 博文
 - [Essentials of Deep Learning: Visualizing Convolutional Neural Networks in Python](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/)
+
 - [How to use Tensorboard with PyTorch](http://www.erogol.com/use-tensorboard-pytorch/)
 - [Visual LSTM](https://medium.com/asap-report/visualizing-lstm-networks-part-i-f1d3fa6aace7)
 - [Visualizing Layer Representations in Neural Networks](https://becominghuman.ai/visualizing-representations-bd9b62447e38)
@@ -69,7 +70,8 @@
 - [Revacnn]
 ### Part 8 Model Evaluation system
 - [Visualize, monitor, debug nerwork learning](https://deeplearning4j.org/visualization)
-
+### Part 9 科研路漫漫
+- [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 
 
 
