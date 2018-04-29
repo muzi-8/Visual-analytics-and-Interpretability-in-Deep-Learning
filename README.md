@@ -51,6 +51,7 @@
 - [Fabrik:Collaboratively build, visualize, and design neural nets in browser](https://github.com/Cloud-CV/Fabrik)
 - [advis:adversarial visualization built with tensorflow.js and React](https://github.com/jaxball/advis)
 - [CNN_VISUALIZING](https://github.com/mx54039q/CNN_VISUALIZING)(ECCV14:Visualizing and Understanding Convolutional Networks)
+- [Seq2Seq-Vis ](https://github.com/HendrikStrobelt/Seq2Seq-Vis)2018
 #### 4.1 DeepLearning与前端相关开源项目
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
