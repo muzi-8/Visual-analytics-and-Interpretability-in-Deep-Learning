@@ -78,6 +78,8 @@
 - [Understanding and diagnosing your machine-learning models](gael-varoquaux.info/interpreting_ml_tuto/)
 ### Part 11 便利技巧
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
+### Part 12 中文博客
+- [Tool - Deep Visualization](http://www.cnblogs.com/jesse123/p/7101649.html)
 
 
 
