@@ -77,7 +77,7 @@
 ### Part 10 Tutorial
 - [Understanding and diagnosing your machine-learning models](gael-varoquaux.info/interpreting_ml_tuto/)
 ### Part 11 便利技巧
--[Work remotely with PyCharm, TensorFlow and SSH] (https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
+- [Work remotely with PyCharm, TensorFlow and SSH] (https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
 
 
 
