@@ -5,6 +5,7 @@
 ### 资料
 - [Deep Learning Lab:作者Paulo Rauber关于深度学习的教程资料](http://paulorauber.com/slides/deep_learning_lab.pdf)
 - [Deep Learning：作者Hugo Larochelle](http://deeplearning.net/)（http://www.dmi.usherb.ca/~larocheh/）
+- [深度学习的屌丝逆袭超简史:作者Hugo Larochelle](https://zhuanlan.zhihu.com/p/24981587)
 - [Feature Visualization:How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
 - [Ideas on Interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 ### 重要进展
