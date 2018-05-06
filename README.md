@@ -78,6 +78,7 @@
 - [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 ### Part 10 Tutorial
 - [Understanding and diagnosing your machine-learning models](gael-varoquaux.info/interpreting_ml_tuto/)
+- [Berkeley：Visualization Courses](http://vis.berkeley.edu/courses/)
 ### Part 11 便利技巧
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
 ### Part 12 中文博客
