@@ -31,6 +31,7 @@
 - [Visualize World Trends using Seaborn in Python](https://towardsdatascience.com/visualize-world-trends-using-seaborn-in-python-2e563e7d35da)
 - [Modern Theory of Deep Learning: Why Does It Work so Well](https://medium.com/mlreview/modern-theory-of-deep-learning-why-does-it-works-so-well-9ee1f7fb2808)
 - [Why Deep Learning Works](https://artificial-understanding.com/why-deep-learning-works-1b0184686af6)
+- ***[Understanding Batch Normalization with Examples in Numpy and Tensorflow with Interactive Code](https://towardsdatascience.com/understanding-batch-normalization-with-examples-in-numpy-and-tensorflow-with-interactive-code-7f59bb126642)***
 #### 基础介绍博文
 - ***[Convolutional Neural Networks](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)***
 ### Part 2 写成研究论文
