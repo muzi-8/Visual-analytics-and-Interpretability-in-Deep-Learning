@@ -90,7 +90,7 @@
 ### Part 12 中文博客
 - [Tool - Deep Visualization](http://www.cnblogs.com/jesse123/p/7101649.html)
 ### thesis defense
--[Interpretable Representation Learning for Visual Intelligence] http://people.csail.mit.edu/bzhou/bolei_defense.mp4
+- [Interpretable Representation Learning for Visual Intelligence](http://people.csail.mit.edu/bzhou/bolei_defense.mp4)
 
 
 
