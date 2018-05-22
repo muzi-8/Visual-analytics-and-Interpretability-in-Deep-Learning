@@ -36,6 +36,7 @@
 - [Modern Theory of Deep Learning: Why Does It Work so Well](https://medium.com/mlreview/modern-theory-of-deep-learning-why-does-it-works-so-well-9ee1f7fb2808)
 - [Why Deep Learning Works](https://artificial-understanding.com/why-deep-learning-works-1b0184686af6)
 - [A Comprehensive Design Guide for Image Classification CNNs](https://hackernoon.com/a-comprehensive-design-guide-for-image-classification-cnns-46091260fb92)
+- [深度学习三巨头等口述神经网络复兴史](https://www.bloomberg.com/news/features/2018-05-17/apple-and-its-rivals-bet-their-futures-on-these-men-s-dreams)
 - ***[Understanding Batch Normalization with Examples in Numpy and Tensorflow with Interactive Code](https://towardsdatascience.com/understanding-batch-normalization-with-examples-in-numpy-and-tensorflow-with-interactive-code-7f59bb126642)***
 #### 基础介绍博文
 - ***[Convolutional Neural Networks](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)***
