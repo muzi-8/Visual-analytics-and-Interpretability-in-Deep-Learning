@@ -61,6 +61,7 @@
 - [CNN_VISUALIZING](https://github.com/mx54039q/CNN_VISUALIZING)(ECCV14:Visualizing and Understanding Convolutional Networks)
 - [Seq2Seq-Vis ](https://github.com/HendrikStrobelt/Seq2Seq-Vis)2018
 - [AdversarialDNN-Playground](https://github.com/QData/AdversarialDNN-Playground)
+- [MXboard](https://github.com/awslabs/mxboard)
 #### 4.1 DeepLearning与前端相关开源项目
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
@@ -93,6 +94,7 @@
 ### thesis defense
 - [Interpretable Representation Learning for Visual Intelligence](http://people.csail.mit.edu/bzhou/bolei_defense.mp4)
 - [周博磊：分享自己的研究工作]（https://v.douyu.com/show/paRbBv30a4276PYV）
+
 
 
 
