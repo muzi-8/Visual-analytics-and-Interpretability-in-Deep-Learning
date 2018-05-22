@@ -8,6 +8,7 @@
 - [深度学习的屌丝逆袭超简史:作者Hugo Larochelle](https://zhuanlan.zhihu.com/p/24981587)
 - [Feature Visualization:How neural networks build up their understanding of images](https://distill.pub/2017/feature-visualization/)
 - [Ideas on Interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
+- [花书：deeplearning解读](https://github.com/hadrienj/deepLearningBook-Notes)
 ### 重要进展
 - [破解AI大脑黑盒,谷歌迈出新的一步](https://zhuanlan.zhihu.com/p/34306323)
   - [Google Brain-Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
