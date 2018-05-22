@@ -95,6 +95,8 @@
 ### thesis defense
 - [Interpretable Representation Learning for Visual Intelligence](http://people.csail.mit.edu/bzhou/bolei_defense.mp4)
 - [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
+### Paper
+-[2018 ICML accepted papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
 
 
 
