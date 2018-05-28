@@ -22,6 +22,8 @@
 - [Correlations in Complex Data](https://medium.freecodecamp.org/how-machines-make-predictions-finding-correlations-in-complex-data-dfd9f0d87889)
 - [从PCC到MIC，一文教你如何计算变量之间的相关性](https://www.jiqizhixin.com/articles/how-machines-make-predictions-finding-correlations-in-complex-data)转自公众号:机器之心
 ### 博文
+##### Blog
+- [Google AI blog ](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html)
 ##### 中文博文
 - [深度学习大讲堂：CNN的近期进展与实用技巧（中科院计算所 刘昕博士）](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324619&idx=1&sn=ca1aed9e42d8f020d0971e62148e13be&scene=1&srcid=0503De6zpYN01gagUvn0Ht8D#wechat_redirect)
 ##### 英文博文
