@@ -28,7 +28,6 @@
 - [深度学习大讲堂：CNN的近期进展与实用技巧（中科院计算所 刘昕博士）](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324619&idx=1&sn=ca1aed9e42d8f020d0971e62148e13be&scene=1&srcid=0503De6zpYN01gagUvn0Ht8D#wechat_redirect)
 ##### 英文博文
 - [Essentials of Deep Learning: Visualizing Convolutional Neural Networks in Python](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/)
-
 - [How to use Tensorboard with PyTorch](http://www.erogol.com/use-tensorboard-pytorch/)
 - [Visual LSTM](https://medium.com/asap-report/visualizing-lstm-networks-part-i-f1d3fa6aace7)
 - [Visualizing Layer Representations in Neural Networks](https://becominghuman.ai/visualizing-representations-bd9b62447e38)
@@ -94,6 +93,7 @@
 - [Berkeley：Visualization Courses](http://vis.berkeley.edu/courses/)
 ### Part 11 便利技巧
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
+- [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine ](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
 ### Part 12 中文博客
 - [Tool - Deep Visualization](http://www.cnblogs.com/jesse123/p/7101649.html)
 ### thesis defense
