@@ -66,6 +66,7 @@
 - [Seq2Seq-Vis ](https://github.com/HendrikStrobelt/Seq2Seq-Vis)2018
 - [AdversarialDNN-Playground](https://github.com/QData/AdversarialDNN-Playground)
 - [MXboard](https://github.com/awslabs/mxboard)
+- [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 #### 4.1 DeepLearning与前端相关开源项目
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
