@@ -98,6 +98,7 @@
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine ](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
 ### Part 12 中文博客
 - [Tool - Deep Visualization](http://www.cnblogs.com/jesse123/p/7101649.html)
+- [实验室师弟博客：北大AI系列课程](https://blog.csdn.net/CrazyBull2012)
 ### thesis defense
 - [Interpretable Representation Learning for Visual Intelligence](http://people.csail.mit.edu/bzhou/bolei_defense.mp4)
 - [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
