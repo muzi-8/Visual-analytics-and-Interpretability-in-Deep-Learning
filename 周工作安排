@@ -90,3 +90,4 @@ How convolutional neural network see the world - A survey of convolutional neura
 Teaching meaningful explanation
 第25周
 Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks （2018 network dissection的后续工作）
+Comparing deep neural networks against humans: object recognition when the signal gets weaker
