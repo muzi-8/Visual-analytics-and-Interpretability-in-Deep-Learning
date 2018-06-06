@@ -88,3 +88,5 @@ understanding deep learning requires rethinking generalization（https://openrev
 How convolutional neural network see the world - A survey of convolutional neural network visualization methods(2018 4月)
 第24周
 Teaching meaningful explanation
+第25周
+Net2Vec: Quantifying and Explaining how Concepts are Encoded by Filters in Deep Neural Networks （2018 network dissection的后续工作）
