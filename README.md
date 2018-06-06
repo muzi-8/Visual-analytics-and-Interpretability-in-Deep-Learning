@@ -105,6 +105,9 @@
 - [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
 ### Paper
 - [2018 ICML accepted papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
+### 深度学习中的信息论
+- [知乎：机器学习入门：重要的概念---信息熵（Shannon’s Entropy Model）](https://zhuanlan.zhihu.com/p/30854084)
+- [Must know Information Theory concepts in Deep Learning (AI)](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
 
 
 
