@@ -82,6 +82,9 @@
 ### Part 6 理论层次
 #### 信息论与深度学习的结合
 - [(MEDIUM) Mukul Malik:Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
+- [知乎：机器学习入门：重要的概念---信息熵（Shannon’s Entropy Model）](https://zhuanlan.zhihu.com/p/30854084)
+- [Must know Information Theory concepts in Deep Learning (AI)](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
+- [案例研究：InfoGAN](http://www.depthfirstlearning.com/2018/InfoGAN)
 ### Part 7 Visual Analytics Community Classical Project
 - [classilist](https://github.com/katehara/classilist)
 - [LstmVis]
@@ -91,6 +94,8 @@
 - [Visualize, monitor, debug nerwork learning](https://deeplearning4j.org/visualization)
 ### Part 9 科研路漫漫
 - [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
+- [文献综述德思维导图](chrome-extension://ihgdgpjankaehldoaimdlekdidkjfghe/viewer.html#http://uq.edu.au/student-services/pdf/learning/lit-review-generic-focus-Qs-mind-map-v2.pdf)
+- [如何写好博士论文](chrome-extension://ihgdgpjankaehldoaimdlekdidkjfghe/viewer.html#https://www.imperial.ac.uk/media/imperial-college/medicine/sph/current-student-forms/How-to-write-a-PhD.pdf)
 ### Part 10 Tutorial
 - [Understanding and diagnosing your machine-learning models](gael-varoquaux.info/interpreting_ml_tuto/)
 - [Berkeley：Visualization Courses](http://vis.berkeley.edu/courses/)
@@ -105,10 +110,8 @@
 - [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
 ### Paper
 - [2018 ICML accepted papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
-### 深度学习中的信息论
-- [知乎：机器学习入门：重要的概念---信息熵（Shannon’s Entropy Model）](https://zhuanlan.zhihu.com/p/30854084)
-- [Must know Information Theory concepts in Deep Learning (AI)](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
-- [案例研究：InfoGAN](http://www.depthfirstlearning.com/2018/InfoGAN)
+
+
 
 
 
