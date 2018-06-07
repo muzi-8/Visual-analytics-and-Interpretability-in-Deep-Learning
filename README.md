@@ -94,8 +94,8 @@
 - [Visualize, monitor, debug nerwork learning](https://deeplearning4j.org/visualization)
 ### Part 9 科研路漫漫
 - [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
-- [文献综述德思维导图](chrome-extension://ihgdgpjankaehldoaimdlekdidkjfghe/viewer.html#http://uq.edu.au/student-services/pdf/learning/lit-review-generic-focus-Qs-mind-map-v2.pdf)
-- [如何写好博士论文](chrome-extension://ihgdgpjankaehldoaimdlekdidkjfghe/viewer.html#https://www.imperial.ac.uk/media/imperial-college/medicine/sph/current-student-forms/How-to-write-a-PhD.pdf)
+- [文献综述德思维导图](http://uq.edu.au/student-services/pdf/learning/lit-review-generic-focus-Qs-mind-map-v2.pdf)
+- [如何写好博士论文](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/current-student-forms/How-to-write-a-PhD.pdf)
 ### Part 10 Tutorial
 - [Understanding and diagnosing your machine-learning models](gael-varoquaux.info/interpreting_ml_tuto/)
 - [Berkeley：Visualization Courses](http://vis.berkeley.edu/courses/)
