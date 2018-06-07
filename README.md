@@ -108,6 +108,7 @@
 ### 深度学习中的信息论
 - [知乎：机器学习入门：重要的概念---信息熵（Shannon’s Entropy Model）](https://zhuanlan.zhihu.com/p/30854084)
 - [Must know Information Theory concepts in Deep Learning (AI)](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
+- [案例研究：InfoGAN](http://www.depthfirstlearning.com/2018/InfoGAN)
 
 
 
