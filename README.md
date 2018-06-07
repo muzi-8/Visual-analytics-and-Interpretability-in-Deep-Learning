@@ -86,6 +86,7 @@
 - [知乎：机器学习入门：重要的概念---信息熵（Shannon’s Entropy Model）](https://zhuanlan.zhihu.com/p/30854084)
 - [Must know Information Theory concepts in Deep Learning (AI)](https://towardsdatascience.com/must-know-information-theory-concepts-in-deep-learning-ai-e54a5da9769d)
 - [案例研究：InfoGAN](http://www.depthfirstlearning.com/2018/InfoGAN)
+- [Gan指南](http://t.cn/R1n8hrL?u=1402400261&m=4247430650553030&cu=2874176083)
 ### Part 7 Visual Analytics Community Classical Project
 - [classilist](https://github.com/katehara/classilist)
 - [LstmVis]
@@ -111,7 +112,9 @@
 - [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
 ### Paper
 - [2018 ICML accepted papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
-
+### 机器学习
+- [机器学习中回归模型的5种损失函数](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
+- [深度学习优化导论：梯度下降](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
 
 
 
