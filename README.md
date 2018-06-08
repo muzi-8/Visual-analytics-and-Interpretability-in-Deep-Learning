@@ -73,7 +73,8 @@
 #### 4.1 DeepLearning与前端相关开源项目
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
-#### 4.2 对抗样本相关开源项目
+#### 4.2 对抗样本
+- [medium:How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
 #### 4.3 tensorflow.js相关资料
 - [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
 - [Visualizing activations of MobileNet with TensorFlow.js](https://beta.observablehq.com/@nsthorat/visualizing-activations-of-mobilenet-with-tensorflow-js)
