@@ -118,6 +118,9 @@
 ### 机器学习
 - [机器学习中回归模型的5种损失函数](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
 - [深度学习优化导论：梯度下降](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
+### 贝叶斯网络与图
+- [代表作者：Thomas Kipf](http://tkipf.github.io/)
+- 贝叶斯网络之父：Judea Pearl
 
 
 
