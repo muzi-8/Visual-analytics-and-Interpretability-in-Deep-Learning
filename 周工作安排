@@ -98,3 +98,5 @@ striving for simplicity:The all convolutional net
 第26周
 Why do deep convolutional networks generalize so poorly to small image transformations?
 （CNN在带有微小图像变换的识别中(泛化)表现远不及人类——这与其体系结构忽略了经典采样定理的事实有关）
+第27周
+Understanding Batch Normalization（2018）
