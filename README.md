@@ -78,6 +78,7 @@
 #### 4.3 tensorflow.js相关资料
 - [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
 - [Visualizing activations of MobileNet with TensorFlow.js](https://beta.observablehq.com/@nsthorat/visualizing-activations-of-mobilenet-with-tensorflow-js)
+- [Realtime tSNE Visualizations with TensorFlow.js](https://ai.googleblog.com/2018/06/realtime-tsne-visualizations-with.html)
 ### Part 5 相关顶会论文集
 - [IJCAI:International Joint Conferences on Artificial Intelligence Organization](https://www.ijcai.org/proceedings/2017/)
 - [机器学习&深度学习顶会（2017、2018）](https://northconcepts.com/blog/2017/11/30/machine-learning-artificial-intelligence-conferences/)
