@@ -114,6 +114,7 @@
 - [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
 ### Paper
 - [2018 ICML accepted papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
+- [2018 CVPR论文集](http://openaccess.thecvf.com/menu.py)
 ### 机器学习
 - [机器学习中回归模型的5种损失函数](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
 - [深度学习优化导论：梯度下降](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/)
