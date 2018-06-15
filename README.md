@@ -127,9 +127,6 @@
 - [代表作者：Thomas Kipf](http://tkipf.github.io/)
 - 贝叶斯网络之父：Judea Pearl
 - [【信息汇总】国际“顶尖”计算机视觉、机器学习会议大搜罗--附排名&接收率](https://zhuanlan.zhihu.com/p/28037164)
-
-
-
-
+- [CAM 方法](https://thehive.ai/blog/inside-a-neural-networks-mind)
 
 
