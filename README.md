@@ -110,6 +110,7 @@
 ### Part 12 中文博客
 - [Tool - Deep Visualization](http://www.cnblogs.com/jesse123/p/7101649.html)
 - [实验室师弟博客：北大AI系列课程](https://blog.csdn.net/CrazyBull2012)
+- [博客：不要错过这些资源](http://zongweiz.leanote.com/post/d8aecb96723e)
 ### thesis defense
 - [Interpretable Representation Learning for Visual Intelligence](http://people.csail.mit.edu/bzhou/bolei_defense.mp4)
 - [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
