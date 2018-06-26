@@ -10,6 +10,7 @@
 - [Ideas on Interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 - [花书：deeplearning解读](https://github.com/hadrienj/deepLearningBook-Notes)
 - [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
+- [机器学习日报](http://forum.ai100.com.cn/)
 ### 课程
 - [Andrew Ng:CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
 ### 重要进展
@@ -134,5 +135,4 @@
 - [【信息汇总】国际“顶尖”计算机视觉、机器学习会议大搜罗--附排名&接收率](https://zhuanlan.zhihu.com/p/28037164)
 - [CAM 方法](https://thehive.ai/blog/inside-a-neural-networks-mind)
 - [Essentials of Deep Learning: Visualizing Convolutional Neural Networks in Python](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/)
-
 
