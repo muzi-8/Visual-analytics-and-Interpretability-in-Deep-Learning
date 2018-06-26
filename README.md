@@ -135,4 +135,6 @@
 - [【信息汇总】国际“顶尖”计算机视觉、机器学习会议大搜罗--附排名&接收率](https://zhuanlan.zhihu.com/p/28037164)
 - [CAM 方法](https://thehive.ai/blog/inside-a-neural-networks-mind)
 - [Essentials of Deep Learning: Visualizing Convolutional Neural Networks in Python](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/)
+### 科技报告文章
+-[A Taxonomy of Deep Convolutional Neural Nets for Computer Vision](https://doi.org/10.3389/frobt.2015.00036)
 
