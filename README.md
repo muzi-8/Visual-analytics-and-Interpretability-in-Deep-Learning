@@ -13,6 +13,7 @@
 - [机器学习日报](http://forum.ai100.com.cn/)
 ### 课程
 - [Andrew Ng:CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
+- [cs229 MachineLearning](https://zhuanlan.zhihu.com/MachineLearn)
 ### 重要进展
 - [破解AI大脑黑盒,谷歌迈出新的一步](https://zhuanlan.zhihu.com/p/34306323)
   - [Google Brain-Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
