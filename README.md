@@ -112,6 +112,7 @@
 ### Part 11 便利技巧
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
 - [Comprehensive Beginner’s Guide to Jupyter Notebooks for Data Science & Machine ](https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/)
+- [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 ### Part 12 中文博客
 - [Tool - Deep Visualization](http://www.cnblogs.com/jesse123/p/7101649.html)
 - [实验室师弟博客：北大AI系列课程](https://blog.csdn.net/CrazyBull2012)
