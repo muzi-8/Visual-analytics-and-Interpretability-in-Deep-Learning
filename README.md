@@ -144,3 +144,5 @@
 -[A Taxonomy of Deep Convolutional Neural Nets for Computer Vision](https://doi.org/10.3389/frobt.2015.00036)
 ### 视频
 -[AI一代宗师Hinton](https://www.youtube.com/watch?v=l9RWTMNnvi4)
+### 会议报告
+- [张钹院士：走向真正的人工智能 | CCF-GAIR 2018](https://www.leiphone.com/news/201806/lTM2keSXEFvKqgUS.html)
