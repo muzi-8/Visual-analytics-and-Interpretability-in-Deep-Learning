@@ -15,6 +15,7 @@
 - [Andrew Ng:CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
 - [cs229 MachineLearning](https://zhuanlan.zhihu.com/MachineLearn)
 - [Deep Learning for Computer Vision](https://telecombcn-dl.github.io/2018-dlcv/)
+- [Getting Started in Computer VisionResearch](https://pan.baidu.com/s/1IdFEAtPpFeSBvV3XmA-jDQ)
 ### 重要进展
 - [破解AI大脑黑盒,谷歌迈出新的一步](https://zhuanlan.zhihu.com/p/34306323)
   - [Google Brain-Chris Olah: The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
