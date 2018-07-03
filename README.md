@@ -132,6 +132,7 @@
 - [矩阵求导](http://www.junnanzhu.com/?p=141)
 - [机器学习中的范数规则化之（一）L0、L1与L2范数](https://blog.csdn.net/amds123/article/details/69610016)
 - [求导：All the Backpropagation derivatives](https://medium.com/@pdquant/all-the-backpropagation-derivatives-d5275f727f60)
+- [剑桥大学：156页PPT全景展示AI过去的12个月](https://www.jiqizhixin.com/articles/2018-07-03-11) 
 ### 深度学习
 - [Michael Nielsen:神经网络与深度学习 中文](https://xhhjin.gitbooks.io/neural-networks-and-deep-learning-zh/content/chap2-4.html)
 - ***[复旦大学：神经网络与深度学习 正在逐步完善](https://github.com/nndl/nndl.github.io)***
