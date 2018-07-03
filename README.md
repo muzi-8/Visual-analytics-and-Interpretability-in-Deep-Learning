@@ -83,6 +83,7 @@
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
 #### 4.2 对抗样本
 - [medium:How to Intentionally Trick Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
+- [综述论文：对抗攻击的12种攻击方法和15种防御方法](https://www.jiqizhixin.com/articles/2018-03-05-4)
 #### 4.3 tensorflow.js相关资料
 - [Introduction to the TensorFlow.js core API](https://beta.observablehq.com/@nsthorat/introduction-to-deeplearn-js)
 - [Visualizing activations of MobileNet with TensorFlow.js](https://beta.observablehq.com/@nsthorat/visualizing-activations-of-mobilenet-with-tensorflow-js)
