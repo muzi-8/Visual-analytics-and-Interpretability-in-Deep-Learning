@@ -48,6 +48,7 @@
 - [深度学习三巨头等口述神经网络复兴史](https://www.bloomberg.com/news/features/2018-05-17/apple-and-its-rivals-bet-their-futures-on-these-men-s-dreams)
 - ***[Understanding Batch Normalization with Examples in Numpy and Tensorflow with Interactive Code](https://towardsdatascience.com/understanding-batch-normalization-with-examples-in-numpy-and-tensorflow-with-interactive-code-7f59bb126642)***
 - [Human Interpretable Machine Learning (Part 1) — The Need and Importance of Model Interpretation](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+- [Almost any Image Classification Problem using PyTorch](https://medium.com/@14prakash/almost-any-image-classification-problem-using-pytorch-i-am-in-love-with-pytorch-26c7aa979ec4)
 #### 基础介绍博文
 - ***[Convolutional Neural Networks](https://hackernoon.com/dl05-convolutional-neural-networks-1d3bb7fff586)***
 - [机器学习博士忠告](https://medium.com/@krzysztofgeras/a-personal-advice-on-how-to-be-a-successful-phd-student-in-machine-learning-279284e283c8)
