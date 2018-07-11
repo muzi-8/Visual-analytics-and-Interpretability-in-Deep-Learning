@@ -35,6 +35,7 @@
 - [可解释性博文](https://lukeoakdenrayner.wordpress.com/2018/06/05/explain-yourself-machine-producing-simple-text-descriptions-for-ai-interpretability/)
 ##### 中文博文
 - [深度学习大讲堂：CNN的近期进展与实用技巧（中科院计算所 刘昕博士）](https://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324619&idx=1&sn=ca1aed9e42d8f020d0971e62148e13be&scene=1&srcid=0503De6zpYN01gagUvn0Ht8D#wechat_redirect)
+- [知乎：卷积网络的可视化与可解释性](https://zhuanlan.zhihu.com/p/36474488)
 ##### 英文博文
 - [Essentials of Deep Learning: Visualizing Convolutional Neural Networks in Python](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/)
 - [How to use Tensorboard with PyTorch](http://www.erogol.com/use-tensorboard-pytorch/)
