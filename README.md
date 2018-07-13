@@ -11,7 +11,7 @@
 - [花书：deeplearning解读](https://github.com/hadrienj/deepLearningBook-Notes)
 - [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
 - [机器学习日报](http://forum.ai100.com.cn/)
-- [知乎：为什么都说神经网络是个黑箱？]（https://www.zhihu.com/question/263672028）
+- [知乎：为什么都说神经网络是个黑箱？](https://www.zhihu.com/question/263672028)
 ### 课程
 - [Andrew Ng:CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
 - [cs229 MachineLearning](https://zhuanlan.zhihu.com/MachineLearn)
