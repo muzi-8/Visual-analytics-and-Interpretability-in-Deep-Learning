@@ -141,6 +141,7 @@
 ### 深度学习
 - [Michael Nielsen:神经网络与深度学习 中文](https://xhhjin.gitbooks.io/neural-networks-and-deep-learning-zh/content/chap2-4.html)
 - ***[复旦大学：神经网络与深度学习 正在逐步完善](https://github.com/nndl/nndl.github.io)***
+- [Troubleshooting Convolutional Neural Networks](https://gist.github.com/zeyademam/0f60821a0d36ea44eef496633b4430fc)
 ### 贝叶斯网络与图
 - [代表作者：Thomas Kipf](http://tkipf.github.io/)
 - 贝叶斯网络之父：Judea Pearl
@@ -148,9 +149,9 @@
 - [CAM 方法](https://thehive.ai/blog/inside-a-neural-networks-mind)
 - [Essentials of Deep Learning: Visualizing Convolutional Neural Networks in Python](https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/)
 ### 科技报告文章
--[A Taxonomy of Deep Convolutional Neural Nets for Computer Vision](https://doi.org/10.3389/frobt.2015.00036)
+- [A Taxonomy of Deep Convolutional Neural Nets for Computer Vision](https://doi.org/10.3389/frobt.2015.00036)
 ### 视频
--[AI一代宗师Hinton](https://www.youtube.com/watch?v=l9RWTMNnvi4)
+- [AI一代宗师Hinton](https://www.youtube.com/watch?v=l9RWTMNnvi4)
 ### 会议报告
 - [张钹院士：走向真正的人工智能 | CCF-GAIR 2018](https://www.leiphone.com/news/201806/lTM2keSXEFvKqgUS.html)
 ### 工具
