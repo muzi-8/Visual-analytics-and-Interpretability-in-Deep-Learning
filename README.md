@@ -127,7 +127,7 @@
 - [博客：不要错过这些资源](http://zongweiz.leanote.com/post/d8aecb96723e)
 ### thesis defense
 - [Interpretable Representation Learning for Visual Intelligence](http://people.csail.mit.edu/bzhou/bolei_defense.mp4)
-- [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV）
+- [周博磊：分享自己的研究工作](https://v.douyu.com/show/paRbBv30a4276PYV)
 ### Paper
 - [2018 ICML accepted papers](https://icml.cc/Conferences/2018/AcceptedPapersInitial)
 - [2018 CVPR论文集](http://openaccess.thecvf.com/menu.py)
@@ -158,3 +158,5 @@
 - [张钹院士：走向真正的人工智能 | CCF-GAIR 2018](https://www.leiphone.com/news/201806/lTM2keSXEFvKqgUS.html)
 ### 工具
 - [微软：charticulator](https://github.com/Microsoft/charticulator)
+### 评估
+- [LRP](http://www.heatmapping.org/)
