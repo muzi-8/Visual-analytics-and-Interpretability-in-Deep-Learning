@@ -162,3 +162,4 @@
 - [微软：charticulator](https://github.com/Microsoft/charticulator)
 ### 评估
 - [LRP](http://www.heatmapping.org/)
+- [Interpretability in AI and its relation to fairness, transparency, reliability and trust](https://ec.europa.eu/jrc/communities/community/humaint/article/interpretability-ai-and-its-relation-fairness-transparency-reliability-and)
