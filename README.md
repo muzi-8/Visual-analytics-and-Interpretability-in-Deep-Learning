@@ -115,6 +115,8 @@
 - [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 - [文献综述德思维导图](http://uq.edu.au/student-services/pdf/learning/lit-review-generic-focus-Qs-mind-map-v2.pdf)
 - [如何写好博士论文](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/current-student-forms/How-to-write-a-PhD.pdf)
+#### Part 9.1 如何做好AI文献阅读
+- [Getting started with reading Deep Learning Research papers: The Why and the How](https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0)
 ### Part 10 Tutorial
 - [Understanding and diagnosing your machine-learning models](gael-varoquaux.info/interpreting_ml_tuto/)
 - [Berkeley：Visualization Courses](http://vis.berkeley.edu/courses/)
