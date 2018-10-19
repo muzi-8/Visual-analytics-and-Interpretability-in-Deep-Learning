@@ -167,3 +167,5 @@
 - [Interpretability in AI and its relation to fairness, transparency, reliability and trust](https://ec.europa.eu/jrc/communities/community/humaint/article/interpretability-ai-and-its-relation-fairness-transparency-reliability-and)
 ### 可视化机器学习算法
 - [How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
+### 网络模型压缩
+- [论文总结 - 模型剪枝 Model Pruning](https://xmfbit.github.io/2018/10/03/paper-summary-model-pruning/#more)
