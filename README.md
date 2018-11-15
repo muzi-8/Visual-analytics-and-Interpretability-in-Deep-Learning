@@ -174,3 +174,5 @@
 - [Devinder Kumar](http://devinderkumar.com/#home)
 ### 相关议题
 - [Do scientists know what is happening inside artificial neural networks?](https://ai.stackexchange.com/questions/1479/do-scientists-know-what-is-happening-inside-artificial-neural-networks)
+### python 工具包
+- [skater](https://github.com/datascienceinc/Skater)
