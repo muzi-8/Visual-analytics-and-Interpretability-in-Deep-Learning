@@ -172,3 +172,5 @@
 - [论文总结 - 模型剪枝 Model Pruning](https://xmfbit.github.io/2018/10/03/paper-summary-model-pruning/#more)
 ### Researcher
 - [Devinder Kumar](http://devinderkumar.com/#home)
+### 相关议题
+- [Do scientists know what is happening inside artificial neural networks?](https://ai.stackexchange.com/questions/1479/do-scientists-know-what-is-happening-inside-artificial-neural-networks)
