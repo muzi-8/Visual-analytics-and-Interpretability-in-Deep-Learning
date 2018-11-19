@@ -178,4 +178,5 @@
 - [Do scientists know what is happening inside artificial neural networks?](https://ai.stackexchange.com/questions/1479/do-scientists-know-what-is-happening-inside-artificial-neural-networks)
 ### python 工具包
 - [skater](https://github.com/datascienceinc/Skater)
-
+### 线性代数理解
+- [线性空间的一些直观感悟](https://blog.csdn.net/keith0812/article/details/10303231)
