@@ -180,3 +180,5 @@
 - [skater](https://github.com/datascienceinc/Skater)
 ### 线性代数理解
 - [线性空间的一些直观感悟](https://blog.csdn.net/keith0812/article/details/10303231)
+### 计算机视觉的入门
+- [A Primer on Computer Vision for Techpreneurs](https://sites.google.com/site/rasche15/techpreneur-faq)
