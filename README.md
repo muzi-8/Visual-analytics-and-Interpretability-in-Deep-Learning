@@ -182,3 +182,5 @@
 - [线性空间的一些直观感悟](https://blog.csdn.net/keith0812/article/details/10303231)
 ### 计算机视觉的入门
 - [A Primer on Computer Vision for Techpreneurs](https://sites.google.com/site/rasche15/techpreneur-faq)
+### Visualization for machine learning
+- [2018 Nips Tutorial](https://www.facebook.com/nipsfoundation/videos/203530960558001/)
