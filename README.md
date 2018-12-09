@@ -187,5 +187,6 @@
 - [Martin Wattenberg Homepage](http://www.bewitched.com/machine-learning.html)
 - [作品集：HINT.FM](http://hint.fm/)
 - [Image Kernels](http://setosa.io/ev/image-kernels/)
-- [作品集](http://setosa.io/#/)
+- [作品集](http://setosa.io/#/) 
+- [code](https://github.com/vicapow/explained-visually)
 - [作品集2](http://jalammar.github.io/)
