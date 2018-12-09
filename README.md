@@ -186,3 +186,4 @@
 - [2018 Nips Tutorial](https://www.facebook.com/nipsfoundation/videos/203530960558001/)
 - [Martin Wattenberg Homepage](http://www.bewitched.com/machine-learning.html)
 - [作品集：HINT.FM](http://hint.fm/)
+- [Image Kernels](http://setosa.io/ev/image-kernels/)
