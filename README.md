@@ -182,6 +182,7 @@
 - [线性空间的一些直观感悟](https://blog.csdn.net/keith0812/article/details/10303231)
 ### 计算机视觉的入门
 - [A Primer on Computer Vision for Techpreneurs](https://sites.google.com/site/rasche15/techpreneur-faq)
+- [How to do everything in Computer Vision](https://towardsdatascience.com/how-to-do-everything-in-computer-vision-2b442c469928)
 ### Visualization for machine learning
 - [2018 Nips Tutorial](https://www.facebook.com/nipsfoundation/videos/203530960558001/)
 - [Martin Wattenberg Homepage](http://www.bewitched.com/machine-learning.html)
@@ -190,5 +191,10 @@
 - [作品集](http://setosa.io/#/) 
 - [code](https://github.com/vicapow/explained-visually)
 - [作品集2](http://jalammar.github.io/)
+- [Effective Visualization of Multi-Dimensional Data — A Hands-on Approach](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
 ### 可解释性教程
 - [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+### Docker 相关资料
+- [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)
+### Jupyter 相关资料
+- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
