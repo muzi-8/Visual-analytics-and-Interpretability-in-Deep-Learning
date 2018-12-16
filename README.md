@@ -190,3 +190,5 @@
 - [作品集](http://setosa.io/#/) 
 - [code](https://github.com/vicapow/explained-visually)
 - [作品集2](http://jalammar.github.io/)
+### 可解释性教程
+- [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
