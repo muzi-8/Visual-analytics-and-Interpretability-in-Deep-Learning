@@ -198,3 +198,5 @@
 - [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)
 ### Jupyter 相关资料
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+### cs领域各顶会历届best paper(不足之处 没有vis会议)
+- [Best paper ](https://jeffhuang.com/best_paper_awards.html)
