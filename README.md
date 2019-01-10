@@ -200,3 +200,8 @@
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 ### cs领域各顶会历届best paper(不足之处 没有vis会议)
 - [Best paper ](https://jeffhuang.com/best_paper_awards.html)
+### python数据可视化
+- [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+- [Author:data-visualization](https://github.com/WillKoehrsen/Data-Analysis)
+- [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python)
+- [blog:My experiences at the VAST challenge](https://medium.com/kishan19/my-experiences-at-the-vast-challenge-2d710c11753)
