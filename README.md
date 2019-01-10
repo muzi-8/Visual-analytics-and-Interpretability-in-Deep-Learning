@@ -205,3 +205,5 @@
 - [Author:data-visualization](https://github.com/WillKoehrsen/Data-Analysis)
 - [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python)
 - [blog:My experiences at the VAST challenge](https://medium.com/kishan19/my-experiences-at-the-vast-challenge-2d710c11753)
+### 优秀博士论文
+- [2017年度CCF优秀博士学位论文奖初评结果公示](https://www.ccf.org.cn/c/2017-12-05/620431.shtml)
