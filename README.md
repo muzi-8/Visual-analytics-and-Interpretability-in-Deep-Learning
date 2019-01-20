@@ -208,3 +208,9 @@
 - [blog:My experiences at the VAST challenge](https://medium.com/kishan19/my-experiences-at-the-vast-challenge-2d710c11753)
 ### 优秀博士论文
 - [2017年度CCF优秀博士学位论文奖初评结果公示](https://www.ccf.org.cn/c/2017-12-05/620431.shtml)
+### 论文搜集网址
+- [论文智能笔记](http://aixpaper.com/similar/learning_important_features_through_propagating_activation_differences)
+- [通天塔](http://tongtianta.site/)
+### 图像分类数据集
+- [Are we there yet ?](http://rodrigob.github.io/are_we_there_yet/build/)
+- [各领域公开数据集下载](https://zhuanlan.zhihu.com/p/25138563)
