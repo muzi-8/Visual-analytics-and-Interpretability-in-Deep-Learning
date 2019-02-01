@@ -118,6 +118,7 @@
 - [文献综述德思维导图](http://uq.edu.au/student-services/pdf/learning/lit-review-generic-focus-Qs-mind-map-v2.pdf)
 - [如何写好博士论文](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/current-student-forms/How-to-write-a-PhD.pdf)
 - [死磕论文前，不如先找齐一套好用的工具](https://zhuanlan.zhihu.com/p/49856162)
+- [科研论文各章节该用什么时态？这些点90%的人都没注意到!](https://mp.weixin.qq.com/s?__biz=MzUxODM4NjUyOQ==&mid=2247488512&idx=5&sn=08f538ccc9d3e053571c85449dedfbab&chksm=f988f20eceff7b18a278a6a08baf251f77ac0ff6fe59ee00d4fd2ee53d7f068a9672a6693262&mpshare=1&scene=1&srcid=0130sEssKuazXQvvAbcUCK0J&pass_ticket=jpCEqR40p0RiPuSsL7AI58sfVgWkPlL4DIiVe8MS4e6C79hKwYol%2BboWigkiGwxB#rd)
 #### Part 9.1 如何做好AI文献阅读
 - [Getting started with reading Deep Learning Research papers: The Why and the How](https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0)
 ### Part 10 Tutorial
