@@ -215,3 +215,5 @@
 ### 图像分类数据集
 - [Are we there yet ?](http://rodrigob.github.io/are_we_there_yet/build/)
 - [各领域公开数据集下载](https://zhuanlan.zhihu.com/p/25138563)
+### 计算机课程资源
+- [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
