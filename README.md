@@ -204,6 +204,8 @@
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
 ### cs领域各顶会历届best paper(不足之处 没有vis会议)
 - [Best paper ](https://jeffhuang.com/best_paper_awards.html)
+- [arXiv in the recent past](https://github.com/logangraham/arXausality)
+- [历届顶会以及代码 Papers with code](https://github.com/zziz/pwc)
 ### python数据可视化
 - [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 - [Author:data-visualization](https://github.com/WillKoehrsen/Data-Analysis)
