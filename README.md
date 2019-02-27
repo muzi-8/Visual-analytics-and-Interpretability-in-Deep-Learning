@@ -222,3 +222,6 @@
 - [各领域公开数据集下载](https://zhuanlan.zhihu.com/p/25138563)
 ### 计算机课程资源
 - [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+### 数据可视化教程材料
+- [HKUST可视化组课程材料](https://github.com/leoyuholo/learning-vis-tools)
+- [浙江大学暑期学校code教程](https://github.com/lanjiZJU/summerCodingPractice)
