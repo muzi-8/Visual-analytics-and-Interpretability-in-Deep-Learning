@@ -90,6 +90,7 @@
 - [MXboard](https://github.com/awslabs/mxboard)
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
 - [interactive-classification](https://github.com/poloclub/interactive-classification)
+- [gpu.js](https://github.com/gpujs/gpu.js)
 #### 4.1 DeepLearning与前端相关开源项目
 - [Screenshot-to-code-in-Keras](https://github.com/emilwallner/Screenshot-to-code-in-Keras)自动生成html code
 - [sketch-code](https://github.com/ashnkumar/sketch-code)由草图生成网页
@@ -206,6 +207,7 @@
 ### Jupyter 相关资料
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
+- [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 ### cs领域各顶会历届best paper(不足之处 没有vis会议)
 - [Best paper ](https://jeffhuang.com/best_paper_awards.html)
 - [arXiv in the recent past](https://github.com/logangraham/arXausality)
