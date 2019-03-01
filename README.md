@@ -18,6 +18,7 @@
 - [handong1587.github.io/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md)
 - [Awesome-XAI](https://github.com/Kangyeol-Kim/Awesome-XAI)
 - [Awesome Deep Vision](https://github.com/swchao/deepVisionData)
+- [interpretable_machine_learning_with_python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 ### 课程
 - [Andrew Ng:CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
 - [cs229 MachineLearning](https://zhuanlan.zhihu.com/MachineLearn)
