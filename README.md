@@ -19,6 +19,7 @@
 - [Awesome-XAI](https://github.com/Kangyeol-Kim/Awesome-XAI)
 - [Awesome Deep Vision](https://github.com/swchao/deepVisionData)
 - [interpretable_machine_learning_with_python](https://github.com/jphall663/interpretable_machine_learning_with_python)
+- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 ### 课程
 - [Andrew Ng:CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
 - [cs229 MachineLearning](https://zhuanlan.zhihu.com/MachineLearn)
