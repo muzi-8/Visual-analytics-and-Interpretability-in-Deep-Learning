@@ -235,3 +235,5 @@
 - [浙江大学暑期学校code教程](https://github.com/lanjiZJU/summerCodingPractice)
 ### 青年基金申请
 - [备战2019年国自然申请，这些注意事项不能忽略！](https://zhuanlan.zhihu.com/p/50645981)
+### 经典案例
+- [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model)
