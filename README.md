@@ -16,6 +16,7 @@
 - [有哪些讨论深度学习、机器学习的论坛推荐？](https://www.zhihu.com/question/268499673/answer/339452329)
 - [CV牛人牛事简介之一](https://zhuanlan.zhihu.com/p/24401292)
 - [handong1587.github.io/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md](https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-visulizing-interpreting-cnn.md)
+- [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
 - [Awesome-XAI](https://github.com/Kangyeol-Kim/Awesome-XAI)
 - [Awesome Deep Vision](https://github.com/swchao/deepVisionData)
 - [interpretable_machine_learning_with_python](https://github.com/jphall663/interpretable_machine_learning_with_python)
