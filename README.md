@@ -212,6 +212,7 @@
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
 - [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+- [Jupyter Superpower — Interactive Visualization Combo with Python](https://towardsdatascience.com/jupyter-superpower-interactive-visualization-combo-with-python-ffc0adb37b7b)
 ### cs领域各顶会历届best paper(不足之处 没有vis会议)
 - [Best paper ](https://jeffhuang.com/best_paper_awards.html)
 - [arXiv in the recent past](https://github.com/logangraham/arXausality)
