@@ -108,6 +108,7 @@
 ### Part 5 相关顶会论文集
 - [IJCAI:International Joint Conferences on Artificial Intelligence Organization](https://www.ijcai.org/proceedings/2017/)
 - [机器学习&深度学习顶会（2017、2018）](https://northconcepts.com/blog/2017/11/30/machine-learning-artificial-intelligence-conferences/)
+- [2019 accept list](https://github.com/extreme-assistant/cvpr2019)
 ### Part 6 理论层次
 #### 信息论与深度学习的结合
 - [(MEDIUM) Mukul Malik:Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
