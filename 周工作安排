@@ -146,3 +146,8 @@ Shallow and Deep Convolutional Networks for Saliency Prediction
 On the effect of the activation function on the distribution of hidden nodes in a deep network
 第44周
 Unmasking Clever Hans Predictors and Assessing What Machines Really Learn
+第45周
+（2019cvpr需要阅读的文章）
+All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification（分类）
+Understanding and Visualizing Deep Visual Saliency Models
+Bag of Tricks for Image Classification with Convolutional Neural Networks
