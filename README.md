@@ -22,6 +22,7 @@
 - [interpretable_machine_learning_with_python](https://github.com/jphall663/interpretable_machine_learning_with_python)
 - [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [电子书:Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/lime.html)
+- [xai_resources](https://github.com/pbiecek/xai_resources)
 ### 课程
 - [Andrew Ng:CS230: Deep Learning](https://web.stanford.edu/class/cs230/)
 - [cs229 MachineLearning](https://zhuanlan.zhihu.com/MachineLearn)
