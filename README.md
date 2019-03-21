@@ -242,5 +242,7 @@
 - [备战2019年国自然申请，这些注意事项不能忽略！](https://zhuanlan.zhihu.com/p/50645981)
 ### 经典案例
 - [What Causes Heart Disease? Explaining the Model](https://www.kaggle.com/tentotheminus9/what-causes-heart-disease-explaining-the-model)
+- [A Complete Exploratory Data Analysis and Visualization for Text Data](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
+- [Black-box vs. white-box models](https://towardsdatascience.com/machine-learning-interpretability-techniques-662c723454f3)
 ### Github Trending 
 - [See what the GitHub community is most excited about today.](https://github.com/trending/jupyter-notebook?since=daily)
