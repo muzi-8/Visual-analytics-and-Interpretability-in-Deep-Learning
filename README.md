@@ -247,3 +247,5 @@
 - [Black-box vs. white-box models](https://towardsdatascience.com/machine-learning-interpretability-techniques-662c723454f3)
 ### Github Trending 
 - [See what the GitHub community is most excited about today.](https://github.com/trending/jupyter-notebook?since=daily)
+### 神经网络训练技巧
+- [33条神经网络训练秘笈A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
