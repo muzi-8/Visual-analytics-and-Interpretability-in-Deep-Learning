@@ -249,3 +249,7 @@
 - [See what the GitHub community is most excited about today.](https://github.com/trending/jupyter-notebook?since=daily)
 ### 神经网络训练技巧
 - [33条神经网络训练秘笈A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+### 可解释性相关工程
+- [The official cli and python API client for W&B ](https://github.com/wandb/client)
+- [microsoft/interpret](https://github.com/Microsoft/interpret)
+- [可交互式：Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/)
