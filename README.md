@@ -253,3 +253,5 @@
 - [The official cli and python API client for W&B ](https://github.com/wandb/client)
 - [microsoft/interpret](https://github.com/Microsoft/interpret)
 - [可交互式：Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/)
+### 可解释性项目
+- [anguyen8/XAI-papers](https://github.com/anguyen8/XAI-papers)
