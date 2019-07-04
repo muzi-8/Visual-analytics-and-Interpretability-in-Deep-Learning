@@ -255,5 +255,6 @@
 - [可交互式：Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/)
 ### 可解释性项目
 - [anguyen8/XAI-papers](https://github.com/anguyen8/XAI-papers)
+- [[DeepLearning]关于Neural Network可解释性的可视化工具及Papers](https://zhuanlan.zhihu.com/p/64987796)
 ### 注意力机制与可解释性关系
 - [NAACL 2019论文|纠正归因谬误——注意力没有解释模型](https://www.aminer.cn/research_report/5cf630a100eea1f1d521d765)
