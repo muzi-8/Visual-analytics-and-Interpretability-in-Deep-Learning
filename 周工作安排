@@ -151,3 +151,12 @@ Unmasking Clever Hans Predictors and Assessing What Machines Really Learn
 All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification（分类）
 Understanding and Visualizing Deep Visual Saliency Models
 Bag of Tricks for Image Classification with Convolutional Neural Networks
+第46周
+通过压缩的角度进行网络的可解释性
+（1）Exploiting Kernel Sparsity and Entropy for Interpretable CNN Compression （有code）
+（2）Visualizing Compression of Deep Learning Models for Classification
+（3）Interpreting convolutional neural networks through compression
+对滤波器与特征图进行可视化
+（1）How to Visualize Filters and Feature Maps in Convolutional Neural Networks（https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/）
+（2）Visualising Filters and Feature Maps for Deep Learning （https://towardsdatascience.com/visualising-filters-and-feature-maps-for-deep-learning-d814e13bd671）
+如何用pytorch实现？
